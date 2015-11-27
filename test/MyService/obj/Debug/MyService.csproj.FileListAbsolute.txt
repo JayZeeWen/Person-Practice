@@ -1,0 +1,7 @@
+C:\Users\wenjun.zhang\Desktop\test\test\MyService\bin\Debug\MyService.exe
+C:\Users\wenjun.zhang\Desktop\test\test\MyService\bin\Debug\MyService.pdb
+C:\Users\wenjun.zhang\Desktop\test\test\MyService\obj\Debug\MyService.exe
+C:\Users\wenjun.zhang\Desktop\test\test\MyService\obj\Debug\MyService.pdb
+C:\Users\wenjun.zhang\Desktop\test\test\MyService\obj\Debug\MyService.csproj.GenerateResource.Cache
+C:\Users\wenjun.zhang\Desktop\test\test\MyService\obj\Debug\MyService.ProjectInstaller.resources
+C:\Users\wenjun.zhang\Desktop\test\test\MyService\obj\Debug\MyService.Service1.resources

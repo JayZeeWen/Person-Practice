@@ -1,0 +1,7 @@
+C:\Users\wenjun.zhang\Desktop\test\test\testConsole\bin\Debug\testConsole.exe
+C:\Users\wenjun.zhang\Desktop\test\test\testConsole\bin\Debug\testConsole.pdb
+C:\Users\wenjun.zhang\Desktop\test\test\testConsole\obj\Debug\testConsole.exe
+C:\Users\wenjun.zhang\Desktop\test\test\testConsole\obj\Debug\testConsole.pdb
+C:\Users\wenjun.zhang\Desktop\test\test\testConsole\obj\Debug\testConsole.csprojResolveAssemblyReference.cache
+C:\Users\wenjun.zhang\Desktop\test\test\testConsole\bin\Debug\MobileStargeDLL.dll
+C:\Users\wenjun.zhang\Desktop\test\test\testConsole\bin\Debug\MobileStargeDLL.pdb

@@ -1,0 +1,5 @@
+C:\Users\wenjun.zhang\Desktop\test\test\Practices\bin\Debug\Practices.exe
+C:\Users\wenjun.zhang\Desktop\test\test\Practices\bin\Debug\Practices.pdb
+C:\Users\wenjun.zhang\Desktop\test\test\Practices\obj\Debug\Practices.csprojResolveAssemblyReference.cache
+C:\Users\wenjun.zhang\Desktop\test\test\Practices\obj\Debug\Practices.exe
+C:\Users\wenjun.zhang\Desktop\test\test\Practices\obj\Debug\Practices.pdb

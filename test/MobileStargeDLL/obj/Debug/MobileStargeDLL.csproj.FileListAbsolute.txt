@@ -1,0 +1,4 @@
+C:\Users\wenjun.zhang\Desktop\test\test\MobileStargeDLL\bin\Debug\MobileStargeDLL.dll
+C:\Users\wenjun.zhang\Desktop\test\test\MobileStargeDLL\bin\Debug\MobileStargeDLL.pdb
+C:\Users\wenjun.zhang\Desktop\test\test\MobileStargeDLL\obj\Debug\MobileStargeDLL.dll
+C:\Users\wenjun.zhang\Desktop\test\test\MobileStargeDLL\obj\Debug\MobileStargeDLL.pdb
